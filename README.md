@@ -11,3 +11,4 @@ https://comic.naver.com/webtoon/list.nhn?titleId=651673
 
 ## Disclaimer
 I'm obviously not a native Korean, so my translations aren't perfect. If you have any suggestions for my translations, or notice a big error, please feel free to email me at kensening@gmail.com with your suggest/correction! I would really appreciate it!
+Additionally, you can also make suggestions/corrections directly using Github!
